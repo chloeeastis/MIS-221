@@ -1,0 +1,15 @@
+/Users/chloeeastis/Desktop/spring2025repos/PA1/bin/Debug/net8.0/PA1
+/Users/chloeeastis/Desktop/spring2025repos/PA1/bin/Debug/net8.0/PA1.deps.json
+/Users/chloeeastis/Desktop/spring2025repos/PA1/bin/Debug/net8.0/PA1.runtimeconfig.json
+/Users/chloeeastis/Desktop/spring2025repos/PA1/bin/Debug/net8.0/PA1.dll
+/Users/chloeeastis/Desktop/spring2025repos/PA1/bin/Debug/net8.0/PA1.pdb
+/Users/chloeeastis/Desktop/spring2025repos/PA1/obj/Debug/net8.0/PA1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chloeeastis/Desktop/spring2025repos/PA1/obj/Debug/net8.0/PA1.AssemblyInfoInputs.cache
+/Users/chloeeastis/Desktop/spring2025repos/PA1/obj/Debug/net8.0/PA1.AssemblyInfo.cs
+/Users/chloeeastis/Desktop/spring2025repos/PA1/obj/Debug/net8.0/PA1.csproj.CoreCompileInputs.cache
+/Users/chloeeastis/Desktop/spring2025repos/PA1/obj/Debug/net8.0/PA1.sourcelink.json
+/Users/chloeeastis/Desktop/spring2025repos/PA1/obj/Debug/net8.0/PA1.dll
+/Users/chloeeastis/Desktop/spring2025repos/PA1/obj/Debug/net8.0/refint/PA1.dll
+/Users/chloeeastis/Desktop/spring2025repos/PA1/obj/Debug/net8.0/PA1.pdb
+/Users/chloeeastis/Desktop/spring2025repos/PA1/obj/Debug/net8.0/PA1.genruntimeconfig.cache
+/Users/chloeeastis/Desktop/spring2025repos/PA1/obj/Debug/net8.0/ref/PA1.dll
